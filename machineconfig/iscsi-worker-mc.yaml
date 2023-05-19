@@ -4,7 +4,7 @@ metadata:
   annotations:
   labels:
     machineconfiguration.openshift.io/role: worker
-  name: 49-worker-iscsi-config
+  name: 50-worker-iscsi-config
 spec:
   config:
     ignition:
